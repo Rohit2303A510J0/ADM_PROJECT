@@ -54,7 +54,7 @@ To develop a machine learning model that predicts an individual's salary using d
 
 ```bash
 git clone https://github.com/Rohit2303A510J0/ADM_PROJECT.git
-cd salary-prediction
+cd ADM_PROJECT
 ```
 
 2. Install required packages
