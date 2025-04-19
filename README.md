@@ -65,5 +65,5 @@ pip install -r requirements.txt
 
 3. Run notebook:
 ```bash
-jupyter notebook notebooks/eda_and_modeling.ipynb
+jupyter notebook ADM_PROJECT/Salary_prediction.ipynb
 ```
